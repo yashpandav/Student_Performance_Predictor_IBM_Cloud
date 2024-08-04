@@ -50,3 +50,13 @@ This project involves creating a web application that allows users to input data
 
 - Make Sure that your frontend is running on port 3000 and backend server is running on port 2000
 
+
+## Files
+![CSV-FILE](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Student_Performance.csv);
+![s1](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Screenshot%202024-08-04%20144737.png);
+![s2](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Screenshot%202024-08-04%20144818.png);
+
+## Acknowledge
+
+![IBM_CLOUD](https://cloud.ibm.com/);
+![Kaggle](https://www.kaggle.com/search);
