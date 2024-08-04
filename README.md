@@ -32,31 +32,29 @@ This project involves creating a web application that allows users to input data
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/auto-ai-project.git
-   cd auto-ai-project
+   git clone https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud.git
+   cd Student_Performance_Predictor_IBM_Cloud
 
 2. **Set Up Frontend**
 
    ```bash
-    cd frontend
     npm install
     
 - install all the packege which are added into package.json file
 
-3. **To Run The Project**
+3. **To Run The Project**   
 
     ```bash
     npm run dev
 
 - Make Sure that your frontend is running on port 3000 and backend server is running on port 2000
 
-
 ## Files
-![CSV-FILE](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Student_Performance.csv);
-![s1](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Screenshot%202024-08-04%20144737.png);
-![s2](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Screenshot%202024-08-04%20144818.png);
+![s1](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Screenshot%202024-08-04%20144737.png)
+![s2](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Screenshot%202024-08-04%20144818.png)
+[CSV-FILE](https://github.com/yashpandav/Student_Performance_Predictor_IBM_Cloud/blob/main/Student_Performance.csv)
 
 ## Acknowledge
 
-![IBM_CLOUD](https://cloud.ibm.com/);
-![Kaggle](https://www.kaggle.com/search);
+[IBM_CLOUD](https://cloud.ibm.com/)
+[Kaggle](https://www.kaggle.com/search)
